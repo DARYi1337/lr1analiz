@@ -17,7 +17,7 @@
    ```bash
    pip install -r requirements.txt
    ```
-2. Запустите ноутбук `notebooks/01_data_understanding.ipynb` для анализа.
+2. Запустите файл `notebooks/01_data_understanding.ipynb` для анализа.
 
 ## Автор
 Мурашов Алексей Витальевич 205 группа
